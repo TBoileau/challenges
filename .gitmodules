@@ -1,0 +1,6 @@
+[submodule "src/allocine-like"]
+	path = src/allocine-like
+	url = git@github.com:TBoileau/challenge-allocine-like.git
+[submodule "src/blog"]
+	path = src/blog
+	url = git@github.com:TBoileau/challenge-blog.git
